@@ -42,7 +42,7 @@ Before you can use Deckify, you'll need to get API keys from Spotify and Discogs
 4. Replace `'your_spotify_client_id_here'` and `'your_spotify_client_secret_here'` with your Spotify API client ID and secret.
 5. Replace `'your_discogs_token_here'` with your Discogs API token.
 
-  ![2](https://github.com/Daddara/deckify/assets/48791532/aa634ca3-852a-4247-9d0a-650601b0d176)
+![1](images/2.png)
 
 
 ## Requirements
@@ -69,7 +69,7 @@ matplotlib
 
 4. After naming the deck, the program will generate and save the cards with your custom name.
 
-<img width="1063" alt="Screenshot 2023-08-02 at 21 56 19" src="https://github.com/Daddara/deckify/assets/48791532/ec53ae70-6538-4f12-85f6-3628b40fb36d">
+![1](images/3.png)
 
 
 ## Customizing Your Cards
@@ -80,7 +80,7 @@ matplotlib
 
 Ensure that all paths to custom fonts or images are correct. Incorrect paths may lead to errors.)
 
-<img width="400" alt="Screenshot 2023-09-03 at 23 51 52" src="https://github.com/Daddara/deckify/assets/48791532/1cde2aac-6c4f-442e-addd-34d203ccd1b8">
+<img src="images/4.png" alt="Image" width="25%">
 
 
 ## Troubleshooting
@@ -92,7 +92,7 @@ Ensure that all paths to custom fonts or images are correct. Incorrect paths may
 
 Use [QR Code Reader by 2Stable](https://apps.apple.com/is/app/qr-code-reader-2stable/id1593228108) for scanning the QR codes. Ensure 'Open Websites' is enabled in the app settings and that you have the Spotify app installed on your phone.
 
-![1](https://github.com/Daddara/deckify/assets/48791532/4971db5a-11c2-41a7-9762-c17483c14226)
+![1](images/1.png)
 
 
 ## Author
